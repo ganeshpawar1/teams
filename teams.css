@@ -1,11 +1,11 @@
 @font-face {
     font-family: myFirstFont;
-    src: url("images/Library\ 3\ am.otf");
+    src: url("image/Library\ 3\ am.otf");
 }
 
 body
 {
-    background-image: url("images/darkspace.jpg");
+    background-image: url("image/darkspace.jpg");
     object-fit: contain;
     object-position: center;
     width: 100%;
